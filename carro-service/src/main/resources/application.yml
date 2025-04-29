@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: carro-service
+server:
+  port: 8082
+
+
